@@ -1,4 +1,6 @@
 # this code was writing by me from scratch 
+# my school id is 10987142
+# I go by the name Mottey Amos Kojo Ababio
 
 def prime_numbers_upto():
     # find prime numbers up to a specied value by the user
