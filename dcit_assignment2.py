@@ -1,3 +1,5 @@
+# this code was writing by me from scratch 
+
 def prime_numbers_upto():
     # find prime numbers up to a specied value by the user
     prime_numbers = []
@@ -25,7 +27,7 @@ def prime_numbers_upto():
     return prime_numbers
     
 
-def average_of_prime_number():
+def average_of_prime_numbers():
     # find the average of prime numbers upto a given number specified by user
     prime_numbers = prime_numbers_upto()
     sum_of_prime_numbers = 0
@@ -35,4 +37,4 @@ def average_of_prime_number():
     print("List of prime numbers are ", prime_numbers)
     print("The average of the prime nubers is", average_of_prime_numbers)
 
-average_of_prime_number()
+average_of_prime_numbers()
